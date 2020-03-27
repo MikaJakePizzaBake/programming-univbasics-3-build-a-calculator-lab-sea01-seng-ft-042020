@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  add == num2 + num 1
+  add == num2 + num1
 end
 
 def subtraction(num1, num2)
